@@ -1,0 +1,49 @@
+{
+    "bebidas":[
+        {
+           "imagem":"assets/imag/bebidas/Suco-de-Laranja-1.jpg",
+           "titulo":"Suco",
+           "descricacao":"Copo de 300ml de suco de laranja",
+           "botao":"Descrição",
+           "valor":8.9
+        },
+        {
+           "imagem":"assets/imag/bebidas/coca cola2.jpg",
+           "titulo":"Coca-Cola",
+           "descricacao":"Coca-Cola Lata",
+           "botao":"Descrição",
+           "valor":5
+        },
+        {
+           "imagem":"assets/imag/bebidas/budweiser.png",
+           "titulo":"Cerveja",
+           "descricacao":"Lonk Neck Budweiser",
+           "botao":"Descrição",
+           "valor":12
+        }
+     ],
+     "comidas":[
+        {
+           "imagem":"assets/imag/comida/hamburger tomate.png",
+           "titulo":"Bg-Prime",
+           "descricacao":"Pão de hamburguer, hamburguer de carne bovina, queijo cheddar com rodelas de tomate e alface",
+           "botao":"Descrição",
+           "valor":22.9
+        },
+        {
+           "imagem":"assets/imag/comida/hamburguer catupiry.png",
+           "titulo":"Bg-Master",
+           "descricacao":"Pão de hamburguer, hamburguer de carne bovina, queijo cheddar, empanado de catupiry, alface , ketchup e maionese",
+           "botao":"Descrição",
+           "valor":29.9
+        },
+        {
+           "imagem":"assets/imag/comida/Pic Burger salada.jpg",
+           "titulo":"Bg-Senior",
+           "descricacao":"Pão de hamburguer, hamburguer de carne bovina, queijo cheddar, cebola picada, alface , molho-Senior",
+           "botao":"Descrição",
+           "valor":25.9
+        }
+     ]
+
+}

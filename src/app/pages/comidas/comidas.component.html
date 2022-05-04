@@ -1,0 +1,30 @@
+<section class="container-fluid" id="comida">
+    <div class="row align-items-center   bg-dark">
+  
+      <div 
+      *ngFor="let item of comidaLista"
+      (click)="comidaClicada(item)"
+      class="col  mt-5 mb-5 m-5" >
+        <div class="card p-2 border-white" style="width: 19rem;">
+          <img class="card-img-top" style="height: 260px;" src={{item.imagem}}>
+          <div class="card-body">
+        
+              <h5 class="card-title">
+                {{item.titulo}}
+              </h5>
+            <div>
+                  <div class="row">
+                      <a href="#" class="col link ">
+                          <h3 class="text-primary" >R${{item.valor}}</h3>
+                      </a>
+                  </div>
+                  <div class=" row botton ">
+                    <a class="btn btn-outline-dark col mt-3" >{{item.botao}}</a>
+                 
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+    </div>
+  </section>
