@@ -1,3 +1,12 @@
+# Ferramentas Necessárias:
+- Node JS(obrigatório)
+- Visual Studio Code (recomendado)
+- Git bash
+- Angular CLI
+
+# Framework 
+- Bootstrap
+
 # NgFood
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
